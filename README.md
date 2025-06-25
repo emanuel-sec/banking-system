@@ -1,2 +1,2 @@
 # banking-system
-Desafio proporcionado pela DIO - Bootcamp Santander 2025 (Backend Python)
+Desafio proporcionado pela @digitalinnovationone - Bootcamp Santander 2025 (Backend Python)
